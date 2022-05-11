@@ -1,1 +1,3 @@
-Hello. This is my 3rd hands-on
+Hello. This is my 3rd hands-on.
+
+I'm learning git branching.
